@@ -20,7 +20,7 @@
 
 ## Type of ML syatem
 
-- [Based on how they were supervised during training](## Training Supervision)
+- Based on how they were supervised during training(## Training Supervision)
     - 1. Supervised Learnign
     - 2. Unsupervised Learning
     - 3. Semi-Supervised Learning
