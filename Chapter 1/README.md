@@ -62,3 +62,15 @@ $$
         This Learning involves converting fully labeled dataset from fully unlabeled dataset. There after we can apply any supervised algo on that dataset.
 
         __For Example__, 
+
+
+## Exercise
+
+
+16. 
+
+17. Purpose of the validation set is to evaluate the hyperparameter such way that the model wont be overfitted to the test set
+
+18. So when we do only train set & test set, and eveluate the generalized error on the test set we adapt the hyperparameter from the test set. which means the model will work poorly on new data. So we hold out a part from the training set to evaluate the model, the held out set is called validation set. Then we train the best model with the full train set & evaluate the model with test set to get estimation of the generalization error.
+
+19. If I tune the hyperparameters using the test set the model will probably work well on the test set but poorly on new instances, means it will overfit or the error will increase in new data
