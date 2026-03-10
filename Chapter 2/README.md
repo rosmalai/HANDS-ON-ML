@@ -1,7 +1,7 @@
 ## End-to-End Machine Learning Project
 
 
-###<ins> Steps </ins>
+### <ins> Steps </ins>
 
 >1. Look at the big picture
 >2. Get the data 
@@ -32,3 +32,9 @@ SPM for a regression problem is  __root mean square matrix(RMSE)__, this gives a
 $$
 \mathrm{RMSE}(\mathbf{X}, h) = \sqrt{\frac{1}{m} \sum_{i=1}^{m} \left( h\left(\mathbf{x}^{(i)}\right) - y^{(i)} \right)^2}
 $$
+
+RMSE is sensetive to outliers so we use **Mean Absolute Error** in that case
+
+$$
+\mathrm{MAE}(\mathrm{X}, y, h) = \frac{1}{m} \sum_{i=1}^{m} \left| h(x^i)- y^i \right|
+$$ 
