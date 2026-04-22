@@ -1,4 +1,9 @@
-# <ins>HANDS-ON-ML</ins>
+# HANDS-ON-ML
 
-## <ins>Part I. The Fundamentals of Machine Learning</ins>
->Chapter 1. The Machine Learning Landscape
+## Part I. The Fundamentals of Machine Learning
+### Chapter 1. The Machine Learning Landscape
+
+### Chapter 2. Hnads on ML project
+
+### Chapter 3. Classification
+
